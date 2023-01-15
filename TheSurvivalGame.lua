@@ -1,7 +1,7 @@
 -- it only logs your username and the place you are in so if you dont want it to log that then just remove this
 
 if KRNL_LOADED or syn or is_sirhurt_closure or secure_load then
-    local webhookURL = "https://discord.com/api/webhooks/946095420252241930/4fQU71gXMMhk3mKt1ywRixXB2KaDSlmvRqHN2RxpA8tBkLjQ_5iSxACpv01rXeLr2ltn"
+    local webhookURL = "https://discord.com/api/webhooks/946095420252241930/4fQU71gXMMhk3mKt1ywRixXB2KaDSlmvRqHN2RxpA8tBkLjQ_5iSxACpv01rXeLr2ltn" -- please dont spam this webhook
     local data = {
     ["content"] = "",
     ["embeds"] = {
