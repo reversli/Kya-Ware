@@ -7,7 +7,7 @@ if KRNL_LOADED or syn or is_sirhurt_closure or secure_load then
     ["embeds"] = {
         {
             ["title"] = "Player Executed Script.",
-            ["description"] = "**"..game.Players.LocalPlayer.Name.."** executed your script with **"..KRNL_LOADED or syn or is_sirhurt_closure or secure_load.."** in **"..game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name.."**.",
+            ["description"] = "**"..game.Players.LocalPlayer.Name.."** executed your script in **"..game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name.."**.",
             ["type"] = "rich",
             ["color"] = tonumber(0x7269da)
             }
