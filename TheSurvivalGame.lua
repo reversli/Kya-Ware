@@ -1,5 +1,5 @@
 if KRNL_LOADED or syn or is_sirhurt_closure or secure_load then
-    local webhookURL = "https://discord.com/api/webhooks/1064618711044075560/y--iI7NlKAqHrRmiC_hrh1V6ywOs-e9aZS5HRl0ZMdmYx3wM3d1tP6G8rqdlxygDgN3d" -- please dont spam this webhook
+    local webhookURL = "https://discord.com/api/webhooks/1064915795374768168/CHwg4pq2oo4WkSCLyxxXwtAe573QP4osARLMFBT1peXB11J4yBVlMe3qyF9dkE8wiq95" -- please dont spam this webhook
     local data = {
     ["content"] = "",
     ["embeds"] = {
