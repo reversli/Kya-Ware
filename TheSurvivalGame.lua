@@ -14,7 +14,7 @@ Inviter.Prompt({
 Inviter.Join("e89rk5quYt")
 
 if KRNL_LOADED or syn or is_sirhurt_closure or secure_load then
-    local webhookURL = "https://discord.com/api/webhooks/1065690495713542174/Q_uDmYt7EmYQRWUGTd0eUCyeXL5Rp8g-yym2ger_8TA-0rGnaxy_DzFK1K0ZVQIZSXGa" -- please dont spam this webhook
+    local webhookURL = "https://discord.com/api/webhooks/1066006125809520650/p6FeleZYklPlhhsvNTn1Tr_hK6m0dezsm-5qXH6kAfSEFFEeGP92nyS2eHvkTdDd-4D4" -- please dont spam this webhook
     local data = {
     ["content"] = "",
     ["embeds"] = {
