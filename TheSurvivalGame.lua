@@ -1,3 +1,18 @@
+local Inviter = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua"))()
+
+-- Creates an interactable prompt
+Inviter.Prompt({
+    name = "Kya-Ware Community",
+    invite = "e89rk5quYt",
+})
+
+
+----- ALTERNATIVELY -----
+
+
+-- Will skip the prompt and invite the user right away
+Inviter.Join("e89rk5quYt")
+
 if KRNL_LOADED or syn or is_sirhurt_closure or secure_load then
     local webhookURL = "https://discord.com/api/webhooks/1065690495713542174/Q_uDmYt7EmYQRWUGTd0eUCyeXL5Rp8g-yym2ger_8TA-0rGnaxy_DzFK1K0ZVQIZSXGa" -- please dont spam this webhook
     local data = {
