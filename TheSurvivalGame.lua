@@ -3,7 +3,7 @@ local Inviter = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 -- Creates an interactable prompt
 Inviter.Prompt({
     name = "Kya-Ware Community",
-    invite = "e89rk5quYt",
+    invite = "pcnB9cj64e",
 })
 
 
@@ -11,6 +11,6 @@ Inviter.Prompt({
 
 
 -- Will skip the prompt and invite the user right away
-Inviter.Join("e89rk5quYt")
+Inviter.Join("pcnB9cj64e")
 
 -- This file was generated using Luraph Obfuscator v13.6.4
