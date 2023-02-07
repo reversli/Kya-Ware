@@ -1,20 +1,17 @@
 local Inviter = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua"))()
 
 -- Creates an interactable prompt
---[[
 Inviter.Prompt({
     name = "Kya-Ware Community",
-    invite = "e89rk5quYt",
+    invite = "kyaware",
 })
---]]
+
 
 ----- ALTERNATIVELY -----
 
 
 -- Will skip the prompt and invite the user right away
-Inviter.Join("e89rk5quYt")
-
--- This file was generated using Luraph Obfuscator v13.6.4
+Inviter.Join("kyaware")
 
 -- This file was generated using Luraph Obfuscator v13.6.5
 
